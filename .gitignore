@@ -1,0 +1,11 @@
+.vs/
+.vscode/
+misc/
+__pycache__/
+virt/
+venv/
+node_modules/
+
+*.env
+secrets.json
+
