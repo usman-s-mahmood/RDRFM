@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 
+/*
 const App = () => {
   const url = import.meta.env.VITE_API_URL;
   const [data, setData] = useState(null);
@@ -33,6 +34,16 @@ const App = () => {
       )}
     </>
   );
-};
+}; */
+
+const App = () => {
+
+  return (
+    <>
+      <h1>ReactJS with Django Rest Framework!</h1>
+      
+    </>
+  );
+}
 
 export default App;
